@@ -1,0 +1,53 @@
+name: ab_analysis
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - bzip2=1.0.8=h2bbff1b_6
+  - ca-certificates=2025.2.25=haa95532_0
+  - expat=2.6.4=h8ddb27b_0
+  - libffi=3.4.4=hd77b12b_1
+  - libmpdec=4.0.0=h827c3e9_0
+  - openssl=3.0.16=h3f729d1_0
+  - pip=25.0=py313haa95532_0
+  - python=3.13.2=hadb2040_100_cp313
+  - python_abi=3.13=0_cp313
+  - setuptools=75.8.0=py313haa95532_0
+  - sqlite=3.45.3=h2bbff1b_0
+  - tk=8.6.14=h0416ee5_0
+  - vc=14.42=haa95532_4
+  - vs2015_runtime=14.42.34433=he0abc0d_4
+  - wheel=0.45.1=py313haa95532_0
+  - xz=5.6.4=h4754444_1
+  - zlib=1.2.13=h8cc25b3_1
+  - pip:
+      - contourpy==1.3.1
+      - cycler==0.12.1
+      - fonttools==4.56.0
+      - imageio==2.37.0
+      - kiwisolver==1.4.8
+      - lazy-loader==0.4
+      - matplotlib==3.10.1
+      - matplotx==0.3.10
+      - mrcfile==1.5.4
+      - networkx==3.4.2
+      - numpy==2.2.3
+      - opencv-python==4.11.0.86
+      - packaging==24.2
+      - pandas==2.2.3
+      - pillow==11.1.0
+      - pyarrow==19.0.1
+      - pyparsing==3.2.1
+      - python-dateutil==2.9.0.post0
+      - pytz==2025.1
+      - scikit-image==0.25.2
+      - scipy==1.15.2
+      - seaborn==0.13.2
+      - six==1.17.0
+      - starfile==0.5.12
+      - tifffile==2025.2.18
+      - typing-extensions==4.12.2
+      - tzdata==2025.1
+prefix: C:\Users\chem-chem1918\AppData\Local\anaconda3\envs\ab_analysis
